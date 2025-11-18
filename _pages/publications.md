@@ -41,9 +41,8 @@ Ngoepe, N., Mwaiko S., Kishe M. A., Wienhues G., Temoltzin-Loranca Y., King L., 
 
 ## 2024
 
-Tsuboi, M., [...], <b>Lürig, M.D.</b>, et al. (2024) ‘The paradox of predictability provides a bridge between micro-and macroevolution’, 37(12), pp. 1413–1432. <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
+Tsuboi, M., Sztepanacz, J., De Lisle, S., Voje, K.L., Grabowski, M., Hopkins, M.J., Porto, A., Balk, M., Pontarp, M., Rossoni, D., Hildesheim, L.S., Horta-Lacueva, Q.J.B., Hohmann, N., Holstad, A., <b>Lürig, M.D.</b>, Milocco, L., Nilén, S., Passarotto, A., Svensson, E.I., Villegas, C., Winslott, E., Liow, L.H., Hunt, G., Love, A.C. & Houle, D. (2024) ‘The paradox of predictability provides a bridge between micro-and macroevolution’, 37(12), pp. 1413–1432. <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
 <a id="link" href="https://doi.org/10.1093/jeb/voae103" target="_blank"> [DOI]</a>
-
 
 <b>Lürig, M.D.</b>, Di Martino, E. and Porto, A. (2024) ‘BioEncoder: A metric learning toolkit for comparative organismal biology’, Ecology letters, 27(8), p. e14495. <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
 <a id="link" href="https://doi.org/10.1111/ele.14495" target="_blank"> [DOI]</a>
