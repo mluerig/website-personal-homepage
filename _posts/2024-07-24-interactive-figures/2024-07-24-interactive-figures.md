@@ -3,7 +3,6 @@ title: How to make interactive figures
 date: 2024-07-24
 tags: 
 - methods
-- coding
 - python
 ---
 

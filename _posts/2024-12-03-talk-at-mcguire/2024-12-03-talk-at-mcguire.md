@@ -14,8 +14,6 @@ In the second half, I talk about how image encoders can be used to compare compl
     <a href="https://ufl.zoom.us/rec/share/x_UlodZYlSl5ZMiinotwVcH5WWcZNo4CltIkut71tiZcOhL72KukPsCeqKGS_7aS.gz2twQmPPQ1s6nLg?startTime=1733245485000" target="_blank">
         <img src="mc_guire_seminar.jpg" alt="Seminar Thumbnail" style="width: 80%;">
 	> You can watch a recording of the presentation here < </a>
-
-
 </div>
 
 
