@@ -31,6 +31,9 @@ title: publications
 
 ## 2025
 
+Passarotto, A.\*, <b>Lürig, M.D.\*</b>, Aaltonen, E. & Karell, P. (2025) Morph-specific selection drives phenotypic divergence in color polymorphic tawny owls (Strix aluco) in Northern Europe. Communications Biology, 9, 97. (* contributed equally) <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
+<a id="link" href="https://doi.org/10.1038/s42003-025-09365-1" target="_blank"> [DOI]</a>
+
 Best, R.J. and <b>Lürig, M.D.</b>. (2025) The Ecological Importance of Crustacean Diversity. Book chapter in: The Natural History of the Crustacea: The Ecological Role and Conservation of Crustaceans. Oxford University Press. 
 
 Ngoepe, N., Mwaiko S., Kishe M. A., Wienhues G., Temoltzin-Loranca Y., King L., Mustaphi C. C., Grosjean M., Tinner W., Matthews B., Vogel H., Heiri O., Jemmi E., <b>Lürig, M.D.</b>, Pedersen M. W., Seehausen O., and Muschick M.. 2025. Fossil evidence for trait diversification in an adaptive radiation. Scientific reports 15:38824. <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
@@ -56,7 +59,7 @@ Tsuboi, M., Sztepanacz, J., De Lisle, S., Voje, K.L., Grabowski, M., Hopkins, M.
 
 ## 2021
 
-Lafuente, E., <b>Lürig, M.D.</b>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., & Räsänen, K. (2021). Building on 150 Years of Knowledge: The Freshwater Isopod Asellus aquaticus as an Integrative Eco-Evolutionary Model System. Frontiers in Ecology and Evolution, 9. 
+Lafuente, E., <b>Lürig, M.D.</b>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., & Räsänen, K. (2021). Building on 150 Years of Knowledge: The Freshwater Isopod *Asellus aquaticus* as an Integrative Eco-Evolutionary Model System. Frontiers in Ecology and Evolution, 9. 
 <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
 <a id="link" href="http://dx.doi.org/10.3389/fevo.2021.748212" target="_blank"> [DOI]</a>
 <a id="link" href="{{ site.data.links.gh_assets_files }}/papers/Lafuente et al. 2021 - Building on 150 Years of Knowledge - The Freshwat ... pod Asellus aquaticus as an Integrative Eco-Evolutionary Model System.pdf" > [PDF]</a>
@@ -116,7 +119,7 @@ Leal, M. C., Anaya-Rojas, J.M., Munro, M.H.G., Blunt, J.W., Melian, C.J., Calado
 
 ## 2015
 
-<b>Lürig, M.D.</b>, Kunzmann A. (2015). Effects of short term aragonite undersaturation and elevated temperature on the physiology of <i>Stylophora pistillata</i>. Journal of Sea Research 99, 26–33. 
+<b>Lürig, M.D.</b>, Kunzmann A. (2015). Effects of short term aragonite undersaturation and elevated temperature on the physiology of *Stylophora pistillata*. Journal of Sea Research 99, 26–33. 
 <a id="link" href="https://doi.org/10.1016/j.seares.2015.01.005" >[DOI]</a>
 
 
