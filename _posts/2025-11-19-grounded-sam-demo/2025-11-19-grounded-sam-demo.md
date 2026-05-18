@@ -14,7 +14,7 @@ I put together a minimal demo to use [Grounded SAM](https://github.com/IDEA-Rese
 <div class="image-thumb">
     <a href="https://github.com/mluerig/demo-grounded-sam" target="_blank">
         <img src="https://raw.githubusercontent.com/mluerig/demo-grounded-sam/main/sam3-animation.gif" style="width: 80%;">
-    > GroundedSAM demo on GitHub < </a>
+    > Check out the demo on GitHub < </a>
 </div>
 
 Note that if you don't use a GPU the model is pretty slow (up to a minute per image, or even more), otherwise it runs pretty fast, even on small or mid-size GPUs. I provided some test images of butterflies, which are highly standardized, but it should work well on unstandardized images, e.g., from iNaturalist.   

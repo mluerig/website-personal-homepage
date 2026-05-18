@@ -45,17 +45,21 @@ title: about me
 
 <br>
 
+### Starting 2026
+
+Starting in October 2026, I will launch my own research group at the Leibniz Institute for the Analysis of Biodiversity Change at the University of Bonn, supported by an [ERC Starting Grant](https://doi.org/10.3030/101222637). I'm excited for this opportunity to develop new tools for quantitative biodiversity research, and use them to tackle big questions about evolution!
+
 ### Postdocs (since 2020)
 
-I am currently based at the [Florida Museum of Natural History in Gainesville (FL, USA)](https://www.floridamuseum.ufl.edu/). Together with [Arthur Porto](https://www.biovisionlab.com/home), I am developing novel AI-tools for museomics and applying them to large biological datasets. 
+Recently, from 2023 to 2026, I was based at the Florida Museum of Natural History in Gainesville (FL, USA). As a member of [Arthur Porto's BioVision lab](https://www.biovisionlab.com/home), I developed novel AI-tools for museomic to generate and analyze large trait datasets, and used these datasets to answer questions regarding phenotypic diversification in deep time.
 
-From 2020 to 2023, I was based at [Lund University](https://www.biology.lu.se/), where I worked with [Erik Svensson](https://portal.research.lu.se/en/persons/erik-svensson) on mapping out the phenomics of color polymorphisms in damselflies. This work was funded by the Swiss National Science Foundation (SNSF) through an Early Postdoc.mobility fellowship and by the European Commission through a Marie Skłodowska-Curie fellowship.
+From 2020 to 2023, I was based at Lund University, where I worked with [Erik Svensson](https://portal.research.lu.se/en/persons/erik-svensson) on mapping out the phenomics of color polymorphisms in damselflies. This work was funded by the Swiss National Science Foundation (SNSF) through an Early Postdoc.mobility fellowship and by the European Commission through a Marie Skłodowska-Curie fellowship.
 
-Before coming to Lund, I worked as a short-term postdoc (0.5 year) in [Ole Seehausen's lab at Eawag Kastanienbaum](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/ole-seehausen/show/), where I supported investigations into the evolutionary past of Lake Victoria Cichlids.
+Before coming to Lund, I worked as a short-term postdoc (0.5 year) with [Ole Seehausen](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/ole-seehausen/show/), where I developed computer vision tools to support investigations of the evolutionary past of Lake Victoria Cichlids.
 
 ### PhD (2015–2019)
 
-I completed my PhD in [Blake Matthews' lab at Eawag Kastanienbaum](https://www.blakematthewslab.com/), co-supervised by [Jukka Jokela](https://ae.ethz.ch/current_members/jokela-jukka.html), and funded by ETH Zürich's Center for Adaptation to a Changing Environment. My thesis explored the role of different types of species interactions across various levels of ecological organization and ecological contexts. 
+I completed my PhD in [Blake Matthews' lab at Eawag Kastanienbaum](https://www.blakematthewslab.com/), where I was co-supervised by Jukka Jokela and funded through ETH Zürich's Center for Adaptation to a Changing Environment. My thesis explored the role of different types of species interactions across various levels of ecological organization and ecological contexts. 
 
 An electronic copy of my thesis can be downloaded [here](https://www.dora.lib4ri.ch/eawag/islandora/object/eawag%3A19819).
 
@@ -71,5 +75,5 @@ For my Master’s thesis, I went abroad to California, investigating coexistence
 
 ### Pre-Science
 
-I am originally from Mülheim an der Ruhr in NRW, Germany, where I attended Gymnasium Broich. A high-school exchange program (2002–2003) in West Palm Beach (FL, USA) introduced me to Marine Biology through a class with Mr. Marshall, which reinforced my decision to pursue a career in science.
+I am originally from Mülheim an der Ruhr in NRW, Germany, where I attended Gymnasium Broich. A high-school exchange program (2002–2003) in West Palm Beach (FL, USA) introduced me to Marine Biology through a class with Mr. Marshall, which (most likely) reinforced my decision to pursue a career in science.
 

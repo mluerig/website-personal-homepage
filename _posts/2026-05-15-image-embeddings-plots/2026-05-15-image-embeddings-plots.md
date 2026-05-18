@@ -9,14 +9,16 @@ tags:
 
 # Data cleaning
 
-Sometimes you may have many images and want a quick way to understand what is in the dataset. Especially, when labels are missing or noisy, when images come from different sources, or when you suspect there are duplicates, odd samples, or hidden groups that are hard to find by looking through files one by one. This is hard to do with 2D-images, which are essentially big matrices that are diffcult to compare meaningfull. An extemely powerful way of dealing with this is to leverage image encoders, and turn 2D images into 1D vectors of visual content: image embeddings.
+Sometimes you may have many images and want a quick way to understand what is in the dataset. Especially, when labels are missing or noisy, when images come from different sources, or when you suspect there are duplicates, odd samples, or hidden groups that are hard to find by looking through files one by one. This is hard to do with 2D-images, which are essentially big matrices that are diffcult to compare meaningfull. An extemely powerful way of dealing with this is to leverage image encoders, and turn 2D images into 1D vectors of visual content: image embeddings. 
+
+Read more about image encoders and embeddings in this [paper by An et al. (2023)](http://arxiv.org/abs/2304.05884). We will use their model in the demo linked below.
 
 The basic idea is simple: turn each image into a set of numbers that captures important visual features, then place those images in a low-dimensional map (PCA/tSNE) where similar images sit close together. This makes it easier to spot groups, outliers, mix-ups, and labeling problems. The interactive part is useful because you can inspect points, select subsets, and run the ordination again on smaller parts of the dataset. In practice, this turns embeddings into a practical tool for cleaning image data step by step.
 
 <div class="image-thumb">
     <a href="https://github.com/mluerig/demo-image-embeddings" target="_blank">
         <img src="https://raw.githubusercontent.com/mluerig/demo-image-embeddings/main/int_plot-animation.gif" style="width: 80%;">
-    > Interactive plots using dimensionality-reduced embeddings are a powerfull tool for data-wrangling. < </a>
+    > Check out the demo on GitHub < </a>
 </div>
 
 # Quantiative analysis
